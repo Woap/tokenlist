@@ -728,14 +728,6 @@
         "logoURI": "https://i.imgur.com/DWEwZ26.jpeg"
       },
     {
-    "name": "USD Coin",
-    "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
-    "symbol": "USDC",
-    "decimals": 6,
-    "chainId": 250,
-    "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.svg?v=006"
-  },
-    {
     "name": "Wrapped Bitcoin",
     "address": "0x321162Cd933E2Be498Cd2267a90534A804051b11",
     "symbol": "WBTC",
